@@ -1,8 +1,8 @@
-# Inseguridad_Social
+# SafeHood360
 
 ## Descripcion
 
-La aplicacion web **Inseguridad Social** tiene como objetivo permitir a los ciudadanos registrar actividades sospechosas, incidentes o emergencias en su barrio para mejorar la seguridad local. Los usuarios pueden reportar actividades sospechosas, adjuntar fotos y videos como evidencia, y acceder rapidamente a numeros de emergencia.
+La aplicacion web **SafeHood360** tiene como objetivo permitir a los ciudadanos registrar actividades sospechosas, incidentes o emergencias en su barrio para mejorar la seguridad local. Los usuarios pueden reportar actividades sospechosas, adjuntar fotos y videos como evidencia, y acceder rapidamente a numeros de emergencia.
 
 La aplicacion permite seleccionar hasta 3 barrios y proporciona acceso a un directorio con los numeros de emergencia locales. Ademas, incluye grupos de chats por barrios para fomentar la colaboración comunitaria y ayudar a mantener la seguridad.
 
